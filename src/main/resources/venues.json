@@ -1,0 +1,23 @@
+{
+  "comments": "Cricket Venues in Belgium",
+  "entries": [
+    {
+      "name": "AICC",
+      "street": "Sneeuwbeslaan 11",
+      "city": "Wilrijk",
+      "zip": "2610"
+    },
+    {
+      "name": "Antwerp CC",
+      "street": "Middelheimlaan 152",
+      "city": "Wilrijk",
+      "zip": "2610"
+    },
+    {
+      "name": "12 Stars CC",
+      "street": "Abstraat 153",
+      "city": "Overijse",
+      "zip": "3090"
+    }
+  ]
+}
